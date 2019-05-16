@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BabylonDemo</string>
+    <string name="generic_error_message">Oops, We couldn\'t get what you are looking for</string>
+    <string name="comments_label">Comments: %1$s</string>
+    <string name="cd_banner">An image to represent the banner for a post</string>
+    <string name="posts_toolbar_title">Posts</string>
+</resources>

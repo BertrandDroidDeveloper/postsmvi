@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Material Spacing-->
+    <dimen name="material_small">4dp</dimen>
+    <dimen name="material_medium">8dp</dimen>
+    <dimen name="material_large">16dp</dimen>
+
+    <!-- Layout-->
+    <dimen name="match_constraint">0dp</dimen>
+
+    <!-- Typography-->
+    <dimen name="errorView">30sp</dimen>
+</resources>
